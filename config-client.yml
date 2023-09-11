@@ -17,7 +17,7 @@ eureka:
       defaultZone: http://demo-eureka-7001:7001/eureka/,http://demo-eureka-7002:7002/eureka/,http://demo-eureka-7003:7003/eureka/
 
 MyName:
-  name: 一眼顶针
+  name: yiyandingzhen
 
 ---
 server:
